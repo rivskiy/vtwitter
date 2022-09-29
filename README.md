@@ -1,4 +1,5 @@
 # vtwitter
+Мини курс по Vue 3 с канала "Tocode"
 
 ## Project setup
 ```
